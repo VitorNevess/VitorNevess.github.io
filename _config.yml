@@ -5,8 +5,8 @@ description         : >-                               # >- means to ignore newl
                       use tabs over spaces
                       and never broke production.
 
-url                 : "https://vitornevess.github.io"                               # base hostname & protocol for your site (e.g. http://example.com)
-baseurl             : "/https://vitornevess.github.io"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+url                 : "vitornevess.github.io"                               # base hostname & protocol for your site (e.g. http://example.com)
+baseurl             : "/vitornevess.github.io"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
 repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 #remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
