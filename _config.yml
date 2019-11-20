@@ -1,10 +1,9 @@
 ### Site Settings ###
 title               : VitorNeves();
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Olá, sou João Vitor Ferreira das Neves, gosto de ser chamado de Vitor, desenvolvedor iOS e de games. Eu me 
-encontrei na área de desenvolvimento a possibilidade de fazer qualquer coisa onde a limitação de cada um está
-na sua própria mente. Gosto de ajudar e acompanhar a comunidade sempre que consigo um tempo. Adoro me 
-desafiar diariamente, sempre tentando ser um profissional e pessoa melhor.
+                      Olá, sou João Vitor Ferreira das Neves, gosto de ser chamado de Vitor, desenvolvedor iOS e de games. 
+                      Eu me encontrei na área de desenvolvimento a possibilidade de fazer qualquer coisa onde a limitação de cada um está na sua própria mente. 
+                      Gosto de ajudar e acompanhar a comunidade sempre que consigo um tempo. Adoro me desafiar diariamente, sempre tentando ser um profissional e pessoa melhor.
 
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
