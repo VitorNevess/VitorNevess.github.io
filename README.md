@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+[![portfolYOU][header]](https://youssefraafatnasry.github.io/portfolYOU/)
 
-You can use the [editor on GitHub](https://github.com/VitorNevess/VitorNevess.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div align="center">
+    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i><br><br>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[![Preview][preview]](https://youssefraafatnasry.github.io/portfolYOU/)
 
-### Markdown
+<div align="center">
+    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[![Get the theme][button]](https://youssefraafatnasry.github.io/portfolYOU/docs#installation)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VitorNevess/VitorNevess.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[header]: https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/Logo.png?raw=true
+[preview]: https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/Preview.gif?raw=true
+[button]: https://github.com/YoussefRaafatNasry/portfolYOU/blob/master/docs/Button.png?raw=true
