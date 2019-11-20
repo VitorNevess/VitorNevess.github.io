@@ -1,9 +1,11 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : VitorNeves();
 description         : >-                               # >- means to ignore newlines until "url:"
-                      I turn coffee into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Olá, sou João Vitor Ferreira das Neves, gosto de ser chamado de Vitor, desenvolvedor iOS e de games. Eu me 
+encontrei na área de desenvolvimento a possibilidade de fazer qualquer coisa onde a limitação de cada um está
+na sua própria mente. Gosto de ajudar e acompanhar a comunidade sempre que consigo um tempo. Adoro me 
+desafiar diariamente, sempre tentando ser um profissional e pessoa melhor.
+
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : "/"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
@@ -12,16 +14,16 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Vitor Neves
   image             : https://bit.ly/2KCvgVJ
   behance           : your_username
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : j.victtor.neves@hotmail.com
+  facebook          : jvfneves
+  github            : VitorNevess
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : your_username
+  linkedin          : vitorneves0
   medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
