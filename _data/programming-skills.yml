@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
+- name: Swift
   percentage: 90
+  color: dark
+
+- name: C#
+  percentage: 80
+  color: light
+
+- name: Objective-C
+  percentage: 65
   color: danger
 
-- name: Go
-  percentage: 80
-  color:
+- name: C++
+  percentage: 60
+  color: warning
 
-- name: Python
-  percentage: 70
-  color: dark
+- name: Android
+  percentage: 50
+  color: info

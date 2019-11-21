@@ -1,7 +1,19 @@
-- name: Adobe Photoshop
+- name: Proatividade
+  percentage: 100
+  color: success
+
+- name: Foco
   percentage: 95
+  color: secondary
+
+- name: Empatia
+  percentage: 90
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
-  color: success
+- name: Significância
+  percentage: 85
+  color: warning
+
+- name: Restaurador
+  percentage: 80
+  color: danger
