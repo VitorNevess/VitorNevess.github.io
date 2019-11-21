@@ -4,7 +4,7 @@
 
 - name: C#
   percentage: 80
-  color: light
+  color: success
 
 - name: Objective-C
   percentage: 65
