@@ -1,9 +1,9 @@
 ### Site Settings ###
 title               : VitorNeves();
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Olá, sou João Vitor Ferreira das Neves, gosto de ser chamado de Vitor, desenvolvedor iOS e de games. 
-                      Eu me encontrei na área de desenvolvimento a possibilidade de fazer qualquer coisa onde a limitação de cada um está na sua própria mente. 
-                      Gosto de ajudar e acompanhar a comunidade sempre que consigo um tempo. Adoro me desafiar diariamente, sempre tentando ser um profissional e pessoa melhor.
+                      Olá, me chamou Vitor Neves, desenvolvedor iOS e de games.
+                      Encontrei na área de desenvolvimento a possibilidade de fazer qualquer coisa onde a limitação de cada um está na sua própria mente.
+                      Prezo de ajudar e acompanhar a comunidade sempre que consigo um tempo. Gosto de novos desafios, lutando para ser um profissional e pessoa melhor.
 
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
@@ -15,7 +15,7 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 author:
   name              : Vitor Neves
   image             : /photos/eu.jpeg
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : j.victtor.neves@hotmail.com
   facebook          : jvfneves
@@ -29,7 +29,7 @@ author:
   stackoverflow     : 10040440
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+# twitter           : your_username
 # vimeo             : your_username
 # youtube           : your_channel_name
 
