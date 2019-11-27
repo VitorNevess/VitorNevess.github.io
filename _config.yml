@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : VitorNeves();
 description         : >-                               # >- means to ignore newlines until "url:"
-                      Olá, me chamou Vitor Neves, desenvolvedor iOS e de games.
-                      Encontrei na área de desenvolvimento a possibilidade de fazer qualquer coisa onde a limitação de cada um está na sua própria mente.
+                      Olá, me chamo Vitor Neves, desenvolvedor iOS e de games.
+                      Encontrei na área de desenvolvimento a possibilidade de fazer qualquer coisa em que a limitação de cada um está em sua própria mente.
                       Prezo de ajudar e acompanhar a comunidade sempre que consigo um tempo. Gosto de novos desafios, lutando para ser um profissional e pessoa melhor.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
